@@ -1,6 +1,7 @@
 {
   "name": "octofit-backend",
   "version": "1.0.0",
+  "description": "OctoFit Tracker REST API",
   "private": true,
   "main": "dist/index.js",
   "scripts": {
